@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 ```ts
-const huy = {
+const lpgiahuy = {
   school: "University of Information Technology (UIT), VNU-HCM",
   year: "2nd Year · Information Technology (Vietnam–Japan Program)",
   focus: ["Full-Stack Development", "API Design", "System Design", "Clean Architecture"],
