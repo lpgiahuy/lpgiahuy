@@ -99,7 +99,7 @@ const huy = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=lpgiahuy&theme=algolia&no-frame=true&row=1&column=6&margin-w=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=lpgiahuy&theme=algolia&no-frame=true&row=1&column=6&margin-w=8)-->
 
 </div>
 
@@ -107,9 +107,9 @@ const huy = {
 
 <div align="center">
 
-### 🤝 Let's Connect
+<!--### 🤝 Let's Connect
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FB)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL) -->
 
