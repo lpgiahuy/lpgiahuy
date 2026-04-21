@@ -22,7 +22,7 @@ const lpgiahuy = {
 };
 ```
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/75262818/146364462-a35ae447-f4ad-4637-8e62-ce9829ab01bb.gif" width="400"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5haXllN3M0Y3RrczRrNG4xbWg4ejdsMDF3cmo3dWF3eTJzZWtlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
   <br/>
 </div>
 
