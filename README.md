@@ -25,7 +25,6 @@ const lpgiahuy = {
   <img src="https://user-images.githubusercontent.com/75262818/146364462-a35ae447-f4ad-4637-8e62-ce9829ab01bb.gif" width="400"/>
   <br/>
 </div>
----
 
 ## 🛠️ Tech Stack
 
