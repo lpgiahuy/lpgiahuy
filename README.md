@@ -99,9 +99,9 @@ const huy = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=lpgiahuy&theme=algolia&no-frame=true&row=1&column=6&margin-w=8)-->
+![Trophies](https://github-profile-trophy.vercel.app/?username=lpgiahuy&theme=algolia&no-frame=true&row=1&column=6&margin-w=8)
 
-</div>
+</div>-->
 
 ---
 
