@@ -95,7 +95,7 @@ const huy = {
 
 ---
 
-## 🏆 Trophies
+<!--## 🏆 Trophies
 
 <div align="center">
 
