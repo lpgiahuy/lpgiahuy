@@ -26,6 +26,8 @@ const lpgiahuy = {
   <br/>
 </div>
 
+---
+
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
