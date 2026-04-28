@@ -122,7 +122,7 @@ JWT · OAuth2 · RBAC · Password Hashing (bcrypt)
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=lpgiahuy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&v=1" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=lpgiahuy&show_icons=true&theme=github_dark&count_private=true&cache_seconds=1800&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&v=2" />
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpgiahuy&layout=compact&theme=github_dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&v=1" />
 
