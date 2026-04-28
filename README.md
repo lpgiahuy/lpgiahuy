@@ -118,6 +118,34 @@ JWT · OAuth2 · RBAC · Password Hashing (bcrypt)
 
 <br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=lpgiahuy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpgiahuy&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=lpgiahuy&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lpgiahuy&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=lpgiahuy&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
