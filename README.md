@@ -17,7 +17,7 @@ const lpgiahuy = {
   school: "University of Information Technology (UIT), VNU-HCM",
   year: "2nd Year · Information Technology (Vietnam–Japan Program)",
   focus: ["Full-Stack Development", "API Design", "System Design", "Clean Architecture"],
-  currently: ["Next.js", "NestJS", "Advanced TypeScript"],
+  currently: ["Next.js", "Spring Boot", "Advanced TypeScript"],
   funFact: "I learn best by building real projects and breaking things along the way.",
 };
 ```
@@ -50,6 +50,8 @@ const lpgiahuy = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 #### 🧠 Architecture
 RESTful API Design · MVC Pattern · Clean Architecture
