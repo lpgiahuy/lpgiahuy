@@ -104,7 +104,7 @@ JWT · OAuth2 · RBAC · Password Hashing (bcrypt)
 📦  TypeScript   →  Advanced patterns & decorators
 ⚡  React        →  Client/Server architecture with Vite
 🌐  Next.js      →  App Router, SSR, SSG, Server Actions
-🏗️  NestJS       →  Modular backend, Guards, Pipes
+☕  Spring Boot  →  REST API, Spring Security, JPA/Hibernate
 ```
 
 ---
