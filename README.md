@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Huy+%F0%9F%91%8B;2nd+Year+IT+Student+%40+UIT;Full-Stack+Dev+in+Progress+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+TypeScript" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Huy+%F0%9F%91%8B;3rd+Year+IT+Student+%40+UIT;Full-Stack+Dev+in+Progress+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+TypeScript" alt="Typing Animation" />
 
 <br/>
 
@@ -15,8 +15,8 @@
 ```ts
 const lpgiahuy = {
   school: "University of Information Technology (UIT), VNU-HCM",
-  year: "2nd Year · Information Technology (Vietnam–Japan Program)",
-  focus: ["Full-Stack Development", "API Design", "System Design", "Clean Architecture"],
+  year: "3rd Year · Information Technology (Vietnam–Japan Program)",
+  focus: ["Full-Stack Development", "API Design", "System Design"],
   currently: ["Next.js", "Spring Boot", "Advanced TypeScript"],
   funFact: "I learn best by building real projects and breaking things along the way.",
 };
